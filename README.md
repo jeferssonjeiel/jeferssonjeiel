@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://yt3.googleusercontent.com/ytc/AIdro_nOEcouGFxma0yf79GsN44h2J1BzGZem946_F_dFE7ax5Y=s120-c-k-c0x00ffffff-no-rj" alt="Banner Jefersson Jeiel" width="100%"/>
+  <img src="https://yt3.googleusercontent.com/ytc/AIdro_nOEcouGFxma0yf79GsN44h2J1BzGZem946_F_dFE7ax5Y=s120-c-k-c0x00ffffff-no-rj" alt="Banner Jefersson Jeiel" width="100px"/>
 </p>
 
 <h1 align="center">👋 Olá, eu sou o Jefersson Jeiel</h1>
