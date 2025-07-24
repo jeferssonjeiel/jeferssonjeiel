@@ -57,7 +57,7 @@
 
 📎 Site: [jeferssonjeiel.com.br](https://www.jeferssonjeiel.com.br)  
 💬 WhatsApp: [Clique aqui para conversar](https://api.whatsapp.com/send?phone=5583982058501)  
-📺 YouTube: *[[adicione seu link aqui](https://www.youtube.com/@jeferssondev)]*
+📺 YouTube: *[[Canal do YouTube](https://www.youtube.com/@jeferssondev)]*
 
 ---
 
